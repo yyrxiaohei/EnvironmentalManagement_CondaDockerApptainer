@@ -1,6 +1,6 @@
 # EnvironmentalManagement_CondaDockerApptainer
 
-ASC27 环境管理入门资料，涵盖 **Conda、Docker 与 Apptainer** 的基本概念、安装配置和实践操作。
+环境管理工具入门资料，涵盖 **Conda、Docker 与 Apptainer** 的基本概念、安装配置和实践操作。
 
 ## 内容
 
@@ -13,4 +13,6 @@ ASC27 环境管理入门资料，涵盖 **Conda、Docker 与 Apptainer** 的基�
 
 理解项目依赖与运行环境的管理方式，掌握 Conda 和 Docker 的基础操作，并初步认识 HPC 环境中的 Apptainer。
 
-适用于 ASC27 相关宣讲与入门学习。
+## 适用范围
+
+适合初次接触环境管理与容器工具的学习者，可作为课程学习、赛事准备、自主探索和实践入门的参考材料。
